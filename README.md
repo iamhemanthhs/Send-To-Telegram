@@ -6,7 +6,7 @@
 A windows application used to send the important messages to Telegram account using Telegram bot. 
 
 ## Screenshots:
-![ScreenShot](/Screenshots/1.png?raw=true "Screenshot-1")
+![ScreenShot](/Screenshots/2.png?raw=true "Screenshot-1")
 
 ## Author
 
