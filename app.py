@@ -21,7 +21,7 @@ def sendmessage():
     data = {'chat_id': {5060166011}, 'text': {message}} #Chat Id of the User
     requests.post(url, data).json()
 
-# Kumar swami -- > 874434712 
+
 
 Frame1=Frame(root,bg='#243142')
 Frame1.place(x=520,y=15,width=70,height=40)
