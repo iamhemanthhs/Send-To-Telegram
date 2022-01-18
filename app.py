@@ -6,7 +6,7 @@ from tkinter import ttk
 import tkinter as tk
 
 root = Tk()
-root.title('Save To TelegramX')
+root.title('Save To Telegram')
 root.config(bg='#0e1621')
 root.geometry('600x70+600+400')
 root.iconbitmap('icon.ico')
